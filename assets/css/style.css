@@ -35,16 +35,9 @@ nav  {
     
 }
 nav a {
-    padding-left: 30px;
-}
-header div ul {
-    list-style-type: none;
-}
-
-header div ul li {
-    display: inline-block;
+    
     margin-left: 25px;
-}
+      }
 
 a {
     color: #ffffff;
