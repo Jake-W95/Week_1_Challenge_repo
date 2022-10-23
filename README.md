@@ -2,9 +2,10 @@
 
 ## Refactoring an existing webpage to improve accessibility and streamline code of both the HTML and CSS.
 
-CONTENTS TABLE WITH LINKS
+## CONTENTS 
+CONTENTS TABLE WI TH LINKS
 
-### The motivation for this project was as folows:
+### The motivation for this project was as foLlows:
 - Use my knowledge of HTML and CSS language to improve and streamline the base code whilst keeping the website functional and identicle to the end user.
 - Edit the html code in a way as to improve the page's accessibility to those with visual or aural impairmants.
 
@@ -27,5 +28,6 @@ BEFORE AND AFTER
 - In working on this project I have realised the importance of semantic elements when creating a webpage; They clearly communicate the purpose of the content within the element to the browser, which can be invaluable to differently abled users.
 - I learned the functions of many semantic elements myself and can now use them appropriately and with confidence in my own projects.
 - I learned the importance of concise lines of code. keeping the functions clearly understandable to anyone who is working on any given project.
+- I learned the importance of pushing files to GitHub frequently, as this acts as a safety net should something co catastrophically wrong with the code.
 
 
