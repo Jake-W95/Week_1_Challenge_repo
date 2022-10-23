@@ -27,4 +27,3 @@ BEFORE AND AFTER
 - In working on this project I have realised the importance of semantic elements when creating a webpage; They clearly communicate the purpose of the content within the element to the browser, which can be invaluable to differently abled users.
 - I learned the functions of many semantic elements myself and can now use them appropriately and with confidence in my own projects.
 - I learned the importance of concise lines of code. keeping the functions clearly understandable to anyone who is working on any given project.
-
