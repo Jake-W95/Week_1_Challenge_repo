@@ -30,4 +30,11 @@ BEFORE AND AFTER
 - I learned the importance of concise lines of code. keeping the functions clearly understandable to anyone who is working on any given project.
 - I learned the importance of pushing files to GitHub frequently, as this acts as a safety net should something co catastrophically wrong with the code.
 
+## Usage
+This code functions identically as the original code, only offering more accessibility to users. No change regarding use is required.
+
+## Credits
+Originally written by Horiseon
+Edited by Jake Wallace
+
 
